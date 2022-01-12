@@ -5,7 +5,7 @@ A social media app using Next.js 12 and firebase v9
 
 ## How its done
 
-next / firebase app i build while doing the [fireship course](https://fireship.io/courses/react-next-firebase/)
+next / firebase app i built while doing the [fireship course](https://fireship.io/courses/react-next-firebase/)
 
 
 ## Working app
